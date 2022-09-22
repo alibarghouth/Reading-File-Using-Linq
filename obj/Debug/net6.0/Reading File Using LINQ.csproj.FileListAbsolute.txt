@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Reading File Using LINQ\bin\Debug\net6.0\Reading File Using LINQ.exe
+C:\Users\user\source\repos\Reading File Using LINQ\bin\Debug\net6.0\Reading File Using LINQ.deps.json
+C:\Users\user\source\repos\Reading File Using LINQ\bin\Debug\net6.0\Reading File Using LINQ.runtimeconfig.json
+C:\Users\user\source\repos\Reading File Using LINQ\bin\Debug\net6.0\Reading File Using LINQ.dll
+C:\Users\user\source\repos\Reading File Using LINQ\bin\Debug\net6.0\Reading File Using LINQ.pdb
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\Reading File Using LINQ.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\Reading File Using LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\Reading File Using LINQ.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\Reading File Using LINQ.AssemblyInfo.cs
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\Reading File Using LINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\Reading File Using LINQ.dll
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\refint\Reading File Using LINQ.dll
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\Reading File Using LINQ.pdb
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\Reading File Using LINQ.genruntimeconfig.cache
+C:\Users\user\source\repos\Reading File Using LINQ\obj\Debug\net6.0\ref\Reading File Using LINQ.dll
